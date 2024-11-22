@@ -1,16 +1,18 @@
-## Hi there 👋
+👽 **Alienaz**  
+Un sistema inspirado en Notion para organizar y gestionar tus notas, imágenes y listas. ¡Sencillo, flexible y en constante evolución! 🚀
 
-<!--
-**Alienaz/alienaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **¿Qué es Alienaz?**  
+Alienaz es una herramienta de productividad en la que puedes crear y editar hojas, agregar imágenes y organizar listas. Está en desarrollo, pero la base está lista para que puedas comenzar a gestionar tus ideas. 🌱
 
-Here are some ideas to get you started:
+🛠️ **Características actuales**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✍️ Crear y editar hojas de texto.
+- 📋 Hacer listas de tareas, ideas o lo que necesites.
+- 📸 Agregar imágenes a tus notas.
+
+🚀 **Características futuras**
+
+- 🔍 Búsqueda para encontrar tus notas rápidamente.
+- 📂 Organización de notas en categorías o carpetas.
+- 🛠️ Herramientas de edición avanzadas (tablas, enlaces, y más).
+- 🌐 Sincronización en la nube para acceder desde cualquier lugar.
